@@ -3,9 +3,9 @@
 
 ## Goals
 
-### Pass this Class with a portfolio that makes me smile.
+#### Pass this Class with a portfolio that makes me smile.
 
-### Land a job within 6 - months of graduation, or alot sooner if possible
+#### Land a job within 6 - months of graduation, or alot sooner if possible
 
 
 ## Ideal Company
@@ -18,7 +18,7 @@ I will be very flexible towards my first position, because I know I'll be able t
 
 
 
-Three truths, one is not true
+###Three truths, one is not true
 
 I have driven over 1,000km in Africa
 I have three adult dogs, their combined weight is < 30lbs.
