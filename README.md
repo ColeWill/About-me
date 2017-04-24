@@ -20,6 +20,6 @@ I will be very flexible towards my first position, because I know I'll be able t
 
 ### Three truths, one is not true
 
-I have driven over 1,000km in Africa
-I have three adult dogs, their combined weight is < 30lbs.
-I have baked a pie this year.
+1) I have driven over 1,000km in Africa
+2) I have three adult dogs, their combined weight is < 30lbs.
+3) I have baked a pie this year.
