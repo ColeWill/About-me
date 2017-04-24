@@ -3,9 +3,9 @@
 
 ## Goals
 
-# Pass this Class with a portfolio that makes me smile.
+### Pass this Class with a portfolio that makes me smile.
 
-# Land a job within 6 - months of graduation, or alot sooner if possible
+### Land a job within 6 - months of graduation, or alot sooner if possible
 
 
 ## Ideal Company
