@@ -1,4 +1,4 @@
-### [Linked-In]:https://www.linkedin.com/in/cole-williams-b4824210b/
+### [Linked-In](https://www.linkedin.com/in/cole-williams-b4824210b/)
 
 
 ## Goals
