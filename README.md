@@ -1,6 +1,6 @@
 ### [Linked-In](www.linkedin.com/in/wcole2222)
 
-#### [Resume - in Color](/resume/CWres.pdf)
+#### [Resume - in Color](/resume/ColeW_resume.pdf)
 #### [Resume - black + white](/resume/CWresume.pdf)
 
 ## Goals
