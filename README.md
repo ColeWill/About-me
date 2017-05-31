@@ -3,6 +3,8 @@
 #### [Resume - in Color](/resume/ColeW_resume.pdf)
 #### [Resume - black + white](/resume/CWresume.pdf)
 
+## [Link to Portfolio](https://protected-springs-84894.herokuapp.com/)
+
 ## Goals
 
 #### Pass this Class with a portfolio that makes me smile.
